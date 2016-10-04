@@ -1,0 +1,40 @@
+@charset "utf-8";
+/* CSS Document */
+.container
+{
+	background-color:rgb(0,0,0);
+	text-align:center;
+}
+.container a img
+{
+	width:250px;
+	margin:10px;
+	height:180px;
+}
+
+#onetoeight img{
+	width:250px;
+	height:180px;
+	border:10px;
+}
+
+.upload{
+	border:3px;
+	border-color:rgb(255,255,255);
+	float:left;
+}
+.upload_file{
+	font-family:微软雅黑,宋体;
+	float:left;
+	background-color:rgb(255,255,255);
+	width:200px;
+	height:28px;
+}
+.upload_submit{
+	font-family:微软雅黑,宋体;
+	border:thin;
+	border-left-color:rgb(0,0,0);
+	float:left;
+	background-color:rgb(255,255,255);
+	height:28px;
+}
